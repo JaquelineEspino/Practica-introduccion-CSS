@@ -1,0 +1,24 @@
+body {
+    background-color: #222222; 
+    color: #ffffff;
+}
+
+#miID {
+    text-align: center;
+    color: #bbcde5;
+}
+
+a {
+    color: #639fab;
+    text-align:center;
+}
+
+a:hover{
+    color: #1c5d99;
+}
+img {
+    display: block;
+    width: 300px;
+    height: 280px;
+    margin: auto;
+}
