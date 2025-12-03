@@ -10,12 +10,16 @@ body {
 
 a {
     color: #639fab;
-    text-align:center;
 }
 
 a:hover{
     color: #1c5d99;
 }
+
+.Enlaces{
+    text-align: center;
+}
+
 img {
     display: block;
     width: 300px;
