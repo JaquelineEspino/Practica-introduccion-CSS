@@ -1,11 +1,14 @@
 body {
     background-color: #222222; 
     color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 #miID {
     text-align: center;
     color: #bbcde5;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
 }
 
 a {
@@ -25,4 +28,8 @@ img {
     width: 300px;
     height: 280px;
     margin: auto;
+}
+
+li{
+    font-size: 18px;
 }
