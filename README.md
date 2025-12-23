@@ -1,5 +1,5 @@
 # Práctica-Introducción-CSS
-Repositorio para todos los proyectos del Modulo Fundamentos del Desarrollo Web del curso FrontEnd de DEVF, en donde se introduce a CSS y se refuerzan los conocimientos en HTML, GitHub y GitHub Pages.
+Repositorio para los proyectos "Introducción CSS" y "Propiedades básicas de CSS" del moódulo Fundamentos del Desarrollo Web del curso Frontend de **DEVF**, en donde se introduce a CSS y se refuerzan los conocimientos en HTML, GitHub y GitHub Pages.
 
 ## Descripción
 Este repositorio contiene una página HTML cuyo tema principal es sobre una serie animada llamada 
